@@ -1,0 +1,25 @@
+.body-mes-compes {
+    min-height: 500px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+.all-commandes p {
+    font-size: 13px;
+    color: gray;
+}
+
+.all-commandes {
+    height: 500px;
+    width: 100%;
+    
+}
+.boite-commandes {
+    width: 80%;
+    height: 80%;
+    border: 1px solid green;
+    justify-content: center;
+    
+}
